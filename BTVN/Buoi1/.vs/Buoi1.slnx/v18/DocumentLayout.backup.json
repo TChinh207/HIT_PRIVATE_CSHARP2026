@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "D:\\C#\\BTVN\\Buoi1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1EDA980C-7BC2-441C-B6F1-3D332A565B0C}|Buoi1\\Buoi1.csproj|d:\\c#\\btvn\\buoi1\\buoi1\\bai1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1EDA980C-7BC2-441C-B6F1-3D332A565B0C}|Buoi1\\Buoi1.csproj|solutionrelative:buoi1\\bai1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{01B66B5F-6383-4DCE-48A7-51EFD3F281C7}|Buoi1\\Buoi1.csproj|d:\\c#\\btvn\\buoi1\\buoi1\\bai1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01B66B5F-6383-4DCE-48A7-51EFD3F281C7}|Buoi1\\Buoi1.csproj|solutionrelative:buoi1\\bai1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1EDA980C-7BC2-441C-B6F1-3D332A565B0C}|Buoi1\\Buoi1.csproj|d:\\c#\\btvn\\buoi1\\buoi1\\bai2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1EDA980C-7BC2-441C-B6F1-3D332A565B0C}|Buoi1\\Buoi1.csproj|solutionrelative:buoi1\\bai2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{01B66B5F-6383-4DCE-48A7-51EFD3F281C7}|Buoi1\\Buoi1.csproj|d:\\c#\\btvn\\buoi1\\buoi1\\bai3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01B66B5F-6383-4DCE-48A7-51EFD3F281C7}|Buoi1\\Buoi1.csproj|solutionrelative:buoi1\\bai3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01B66B5F-6383-4DCE-48A7-51EFD3F281C7}|Buoi1\\Buoi1.csproj|d:\\c#\\btvn\\buoi1\\buoi1\\bai2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01B66B5F-6383-4DCE-48A7-51EFD3F281C7}|Buoi1\\Buoi1.csproj|solutionrelative:buoi1\\bai2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\C#\\ConsoleApp1\\ConsoleApp1\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -21,8 +25,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Bai3.cs",
+              "DocumentMoniker": "D:\\C#\\BTVN\\Buoi1\\Buoi1\\Bai3.cs",
+              "RelativeDocumentMoniker": "Buoi1\\Bai3.cs",
+              "ToolTip": "D:\\C#\\BTVN\\Buoi1\\Buoi1\\Bai3.cs",
+              "RelativeToolTip": "Buoi1\\Bai3.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-27T11:31:33.728Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -31,27 +48,27 @@
               "RelativeDocumentMoniker": "Buoi1\\bai1.cs",
               "ToolTip": "D:\\C#\\BTVN\\Buoi1\\Buoi1\\bai1.cs",
               "RelativeToolTip": "Buoi1\\bai1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-27T07:01:54.232Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "bai2.cs",
               "DocumentMoniker": "D:\\C#\\BTVN\\Buoi1\\Buoi1\\bai2.cs",
               "RelativeDocumentMoniker": "Buoi1\\bai2.cs",
               "ToolTip": "D:\\C#\\BTVN\\Buoi1\\Buoi1\\bai2.cs",
               "RelativeToolTip": "Buoi1\\bai2.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAzwBoAAAApAAAAAAAAAA==",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAqwB8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-27T06:57:02.272Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\C#\\ConsoleApp1\\ConsoleApp1\\Program.cs",
               "RelativeDocumentMoniker": "..\\..\\ConsoleApp1\\ConsoleApp1\\Program.cs",

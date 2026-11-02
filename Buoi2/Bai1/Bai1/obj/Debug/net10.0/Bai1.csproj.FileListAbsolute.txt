@@ -1,0 +1,16 @@
+D:\C#\Buoi2\Bai1\Bai1\obj\Debug\net10.0\Bai1.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Buoi2\Bai1\Bai1\obj\Debug\net10.0\Bai1.AssemblyInfoInputs.cache
+D:\C#\Buoi2\Bai1\Bai1\obj\Debug\net10.0\Bai1.AssemblyInfo.cs
+D:\C#\Buoi2\Bai1\Bai1\obj\Debug\net10.0\Bai1.csproj.CoreCompileInputs.cache
+D:\C#\Buoi2\Bai1\Bai1\obj\Debug\net10.0\Bai1.sourcelink.json
+D:\C#\Buoi2\Bai1\Bai1\bin\Debug\net10.0\Bai1.exe
+D:\C#\Buoi2\Bai1\Bai1\bin\Debug\net10.0\Bai1.deps.json
+D:\C#\Buoi2\Bai1\Bai1\bin\Debug\net10.0\Bai1.runtimeconfig.json
+D:\C#\Buoi2\Bai1\Bai1\bin\Debug\net10.0\Bai1.dll
+D:\C#\Buoi2\Bai1\Bai1\bin\Debug\net10.0\Bai1.pdb
+D:\C#\Buoi2\Bai1\Bai1\obj\Debug\net10.0\Bai1.dll
+D:\C#\Buoi2\Bai1\Bai1\obj\Debug\net10.0\refint\Bai1.dll
+D:\C#\Buoi2\Bai1\Bai1\obj\Debug\net10.0\Bai1.pdb
+D:\C#\Buoi2\Bai1\Bai1\obj\Debug\net10.0\Bai1.genruntimeconfig.cache
+D:\C#\Buoi2\Bai1\Bai1\obj\Debug\net10.0\ref\Bai1.dll
+D:\C#\Buoi2\Bai1\Bai1\obj\Debug\net10.0\Bai1.csproj.Up2Date

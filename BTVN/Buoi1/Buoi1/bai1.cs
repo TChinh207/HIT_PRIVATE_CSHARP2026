@@ -1,11 +1,11 @@
 ﻿using System;
 
 
-    class bai1
+class bai1
+{
+    static void Main()
     {
-    static void Main_Cu()
-    {
-            Console.WriteLine("Hello HIT!Tạ Liêm Chính");
-        }
+        Console.WriteLine("Hello HIT!Tạ Liêm Chính");
     }
+}
 
